@@ -1,6 +1,7 @@
-# Awesome Text/Code Editor
+## Awesome Text/Code Editor
 A curated list of text/code editor
 
+---
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Helix](https://helix-editor.com/)
